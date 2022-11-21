@@ -1,2 +1,2 @@
 # Deliverable
-Repository dove vengono caricati i deliverable.
+Repository dove vengono caricati i deliverable ufficiali.
